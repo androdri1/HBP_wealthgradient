@@ -1,5 +1,4 @@
-# HBP_wealthgradient
-Replication files for Wealth and inequality gradients in middle-income economies
+# Replication files for Wealth and inequality gradients in middle-income economies
 
 Files HBPC_03 to HBPC_06 replicate the main tables and figures using 'HBPC_SAGECol_HBP.dta', which is in the data folder. Please amend the folders at the top of each do-file. 
 
